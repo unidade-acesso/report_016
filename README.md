@@ -6,12 +6,12 @@ owner: "Compete 2030"         # Entre as aspas escrever o nome do owner do websi
 seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
-# {{ page.website }}
+# Compete 2030
 
-- Data de criação: {{ page.date }}
-- URL: {{ page.uri }}
-- Propriedade: {{ page.owner }}
-- Candidatura: {{ page.seal }}
+- Data de criação: 10/03/2026
+- URL: https://www.compete2030.gov.pt/
+- Propriedade: Compete 2030
+- Candidatura: Prata
 
 ## Relatório de Auditoria
 
